@@ -25,6 +25,7 @@
       "requirements": {
         "power": "3 A/o",
         "item": {"tag":"wood-cutter-sawblade"}
+      }
     }
   ]
 }
