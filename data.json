@@ -1,0 +1,22 @@
+{
+  "recipes":[ 
+    {
+     "result": "cut-wood",
+     "ingredients": {
+        "log":1
+      },
+      "output-amount": 4,
+      "machine": "wood-cutter"
+    }
+  ],
+  "items":[
+    {
+      "name": "log",
+      "max-stack": 999
+    },
+    {
+      "name": "cut-wood",
+      "max-stack": 999
+    }
+  ] 
+}
