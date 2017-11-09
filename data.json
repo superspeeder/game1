@@ -18,5 +18,13 @@
       "name": "cut-wood",
       "max-stack": 999
     }
-  ] 
+  ],
+  "machines":[
+    {
+      "name": "wood-cutter",
+      "requirements": {
+        "power": "3 A/o",
+        "item": {"tag":"wood-cutter-sawblade"}
+    }
+  ]
 }
